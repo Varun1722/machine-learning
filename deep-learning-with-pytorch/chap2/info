@@ -1,0 +1,2 @@
+This is the first simple neural network model created using Pytorch where we classify where a given image is cat or a fish.
+Achieved an accuracy of 75.32% on test results.
