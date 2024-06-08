@@ -1,1 +1,2 @@
-
+This is an extension to the simple neural network model where we include Convolution layers and make it a CNN and we classify where a given image is cat or a fish.
+Achieved an accuracy of 79% on test results.
