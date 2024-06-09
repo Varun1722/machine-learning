@@ -1,0 +1,4 @@
+Implemented the concept of tranfer learning:
+1) Used pretrained Alexnet and Resnet models
+2) Replaced the final classifier layer of resnet50 model and retrained it on our dataset 
+3) Got an improved accuracy of 88% on validation dataset
